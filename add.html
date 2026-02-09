@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Jurnal de filme</title>
+</head>
+<body>
+
+    <h1>🎬 Jurnal de filme</h1>
+    <p>Adaugarea filmelor</p>
+<nav>
+    <a href="index.html">🎬 Filmele mele</a>
+    <a href="add.html">➕ Adaugă</a>
+    <a href="to_watch.html">🎭 De Vizionat</a>
+</nav>
+    <form>
+        <input type="text" placeholder="Titlu film" required>
+        <div>
+    		<label><input type="checkbox"> Dramă</label>
+    		<label><input type="checkbox"> Comedie</label>
+    		<label><input type="checkbox"> SF</label>
+    		<label><input type="checkbox"> Horror</label>
+    		<label><input type="checkbox"> Acțiune</label>
+		<label><input type="checkbox"> Detectiv</label>
+	</div>
+	<select>
+    		<option value="Coreean">K-Drama / Coreean</option>
+    		<option value="Chinez">C-Drama / Chinez</option>
+    		<option value="Japonez">J-Drama / Japonez</option>
+		<option value="American">American</option>
+    		<option value="European">European</option>
+    		<option value="Altele">Altele</option>
+	</select>
+        <input type="number" placeholder="An apariție" required>
+
+        <input type="number" min="1" max="10" placeholder="Rating (1-10)">
+
+        <textarea placeholder="Comentariu scurt"></textarea>
+	<label>
+        <input type="radio" name="watched" value="no" checked> Nevăzut
+    </label>
+    <label>
+        <input type="radio" name="watched" value="yes"> Văzut
+    </label><br>
+
+        <button type="submit">Adaugă film</button>
+    </form>
+</body>
+</html>
+<HTML>
