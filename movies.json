@@ -1,0 +1,225 @@
+[
+    {
+        "title": "Vincenzo",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQilaB6MRSYg5MCK6GlWG3UTiwC2y076LfMt2yJ0r-hqOSV-zFWpzlpKPd31jDzvfMolxfM69S7q0eUEDGcbYJoqPDFvCMNJ4FHv2cLenX&s=10",
+        "year": "2021",
+        "genres": [
+            "Dramă"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Merita privit!",
+        "watched": "yes"
+    },
+    {
+        "title": "Deadpool",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ZhzAKGIX_QcYsZxkxzoOdywNnX2tTDXSnjsgNLRAKlZYeqAUBScCFgoRmLjGcKfKKpev8E3QWYio7lModLCO0eoWVdpQ_dHSSO7g0gtMfQ&s=10",
+        "year": "2016",
+        "genres": [
+            "Comedie",
+            "Acțiune"
+        ],
+        "type": "American",
+        "rating": "9",
+        "comment": "Mi.a fost recomandat ca fiind captivant și amuzant!",
+        "watched": "no"
+    },
+    {
+        "title": "Shark: The Beginning",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2JkMDY0YmMtODc0OC00OWVkLWIyZDItMjJiMDAyYWViMTc3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "year": "2021",
+        "genres": [
+            "Dramă"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Personajul a trecut prin multe dificultăți",
+        "watched": "yes"
+    },
+    {
+        "title": "The Gangster, the Cop, the Devil",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTdjOTAzOTgtNWI1My00YzZkLWI2YWMtYjQ2MTAxOTI4YWQzXkEyXkFqcGc@._V1_.jpg",
+        "year": "2019",
+        "genres": [
+            "Acțiune",
+            "Detectiv"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "9",
+        "comment": "Am văzut momente interesante din acest film",
+        "watched": "no"
+    },
+    {
+        "title": "The Witch: Part 1. The Subversion",
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/ca/The_Witch-Part_1._The_Subversion.jpg",
+        "year": "2022",
+        "genres": [
+            "SF",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Foarte captivant, îl reprivesc des!",
+        "watched": "yes"
+    },
+    {
+        "title": "The Witch: Part 2. The Other One",
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/The_Witch_Part_2._The_Other_One.jpg",
+        "year": "2022",
+        "genres": [
+            "SF",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Merită reprivit!",
+        "watched": "yes"
+    },
+    {
+        "title": "Train to Busan",
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/95/Train_to_Busan.jpg",
+        "year": "2016",
+        "genres": [
+            "Dramă",
+            "SF",
+            "Horror",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Film foarte tragic",
+        "watched": "yes"
+    },
+    {
+        "title": "#Alive",
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/Alive_2020.jpg",
+        "year": "2020",
+        "genres": [
+            "Dramă",
+            "SF",
+            "Horror",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Film despre un dezastru",
+        "watched": "yes"
+    },
+    {
+        "title": "Extraordinary You",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQwYzViZjYtOWEwNS00ZTcyLWE2MTYtM2FiYzkyZmIzMjI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "year": "2019",
+        "genres": [
+            "SF"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "9",
+        "comment": "Interesant, dar sfârșitul puțin încurcat",
+        "watched": "yes"
+    },
+    {
+        "title": "Trigger",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM3MWRiYWMtZmVkMi00OWE0LWI1M2ItMzE2ODc3YWM3YTU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "year": "2025",
+        "genres": [
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Multă acțiune",
+        "watched": "no"
+    },
+    {
+        "title": "Shark 2: The Storm",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDZmMTQ1MjYtZWQwMy00Njg5LWE0MzktNzczYWQ3MTJlN2YxXkEyXkFqcGc@._V1_.jpg",
+        "year": "2025",
+        "genres": [
+            "Dramă",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Continuarea unui film interesant",
+        "watched": "no"
+    },
+    {
+        "title": "Officer Black Belt",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Officer_Black_Belt_poster.png",
+        "year": "2024",
+        "genres": [
+            "Comedie",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Conține momente amuzante",
+        "watched": "no"
+    },
+    {
+        "title": "The Frog",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGM4Y2VhYjMtZGMzYS00YTI5LTk5NWUtMTcxNTJlOGMyZGE2XkEyXkFqcGc@._V1_.jpg",
+        "year": "2024",
+        "genres": [
+            "Dramă",
+            "Acțiune",
+            "Detectiv"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Pare un film tare interesant",
+        "watched": "no"
+    },
+    {
+        "title": "Taxi Driver",
+        "image": "https://www.teletoday.ru/wp-content/uploads/2023/02/0-2.jpg",
+        "year": "2021",
+        "genres": [
+            "Dramă",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Personajul krutoi)",
+        "watched": "no"
+    },
+    {
+        "title": "Ballerina",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6a/Ballerina_%282023_film%29.jpg",
+        "year": "2023",
+        "genres": [
+            "Dramă",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Un film interesant despre răzbunare!",
+        "watched": "yes"
+    },
+    {
+        "title": "If Wishes Could Kill",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/31/If_Wishes_Could_Kill_poster.png",
+        "year": "2026",
+        "genres": [
+            "SF",
+            "Horror",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Pare foarte interesant!!!",
+        "watched": "no"
+    },
+    {
+        "title": "Black Knight",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Black_Knight_%28TV_Series%29.jpg",
+        "year": "2023",
+        "genres": [
+            "SF",
+            "Acțiune"
+        ],
+        "type": "K-Drama / Coreean",
+        "rating": "10",
+        "comment": "Ceva fantastic și interesant",
+        "watched": "no"
+    }
+]

@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Jurnal de filme</title>
+    <link rel="stylesheet" href="CSS/adds.css">
+</head>
+<body>
+
+    <h1>🎬 Adaugă filme</h1>
+    <p>Adaugarea filmelor</p>
+<nav>
+    <a href="index.html">🎬 Filmele mele</a>
+    <a href="add.html">➕ Adaugă</a>
+    <a href="to_watch.html">🎭 De Vizionat</a>
+    <a href="test.html">📝 Test</a>
+</nav>
+    <form>
+        <input type="text" name="title" placeholder="Titlu film" required>
+		<input type="url" name="image" placeholder="Link imagine film">
+        <div>
+            <label><input type="checkbox" name="genre" value="Dramă"> Dramă</label>
+            <label><input type="checkbox" name="genre" value="Comedie"> Comedie</label>
+            <label><input type="checkbox" name="genre" value="SF"> SF</label>
+            <label><input type="checkbox" name="genre" value="Horror"> Horror</label>
+            <label><input type="checkbox" name="genre" value="Acțiune"> Acțiune</label>
+            <label><input type="checkbox" name="genre" value="Detectiv"> Detectiv</label>
+        </div>
+	<select name="type">
+    		<option>K-Drama / Coreean</option>
+    		<option>C-Drama / Chinez</option>
+    		<option>J-Drama / Japonez</option>
+			<option>American</option>
+    		<option>European</option>
+    		<option>Altele</option>
+	</select>
+        <input type="number" name="year" placeholder="An apariție" required>
+
+        <input type="number" name="rating" min="1" max="10" placeholder="Rating (1-10)">
+
+        <textarea name="comment" placeholder="Comentariu scurt"></textarea>
+	<div class="radio-group">
+    <label>
+        Nevăzut
+        <input type="radio" name="watched" value="no" checked>
+    </label>
+
+    <label>
+        Văzut
+        <input type="radio" name="watched" value="yes">
+    </label>
+</div><br>
+
+        <button type="submit">Adaugă film</button>
+    </form>
+<script src="JS/addjs.js"></script>
+</body>
+</html>
