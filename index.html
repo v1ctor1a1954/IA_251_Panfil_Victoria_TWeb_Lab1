@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Jurnal de filme</title>
+    <link rel="stylesheet" href="CSS/indexs.css">
+
+</head>
+<body>
+
+    <h1>🎬 Jurnal de filme</h1>
+    <p>Evidența personală a filmelor vizionate</p>
+
+    <nav>
+        <a href="index.html">🎬 Filmele mele</a> 
+        <a href="add.html">➕ Adaugă</a> 
+        <a href="to_watch.html">🎭 De Vizionat</a> 
+        <a href="test.html">📝 Test</a>
+    </nav>
+
+    <div class="stats">
+    	<p>Total filme: <span id="totalMovies">0</span></p>
+    	<p>Rating mediu: <span id="avgRating">0</span></p>
+    </div>
+
+    <h2>Filmele Mele</h2>
+<div class="search-bar">
+    <input type="text" id="searchInput" placeholder="🔍 Caută după titlu...">
+    <select id="filterGen">
+        <option value="">Toate genurile</option>
+        <option value="Dramă">Dramă</option>
+        <option value="Comedie">Comedie</option>
+        <option value="SF">SF</option>
+        <option value="Horror">Horror</option>
+        <option value="Acțiune">Acțiune</option>
+        <option value="Detectiv">Detectiv</option>
+    </select>
+    <select id="filterTip">
+        <option value="">Toate tipurile</option>
+        <option value="K-Drama / Coreean">K-Drama</option>
+        <option value="C-Drama / Chinez">C-Drama</option>
+        <option value="J-Drama / Japonez">J-Drama</option>
+        <option value="American">American</option>
+        <option value="European">European</option>
+        <option value="Altele">Altele</option>
+    </select>
+</div>
+    <div id="movieGrid">
+    	<!-- Filmele apar aici -->
+    </div>
+<script src="JS/indexjs.js"></script>
+</body>
+</html>

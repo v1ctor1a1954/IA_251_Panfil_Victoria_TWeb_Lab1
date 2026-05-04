@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Filme</title>
+    <link rel="stylesheet" href="CSS/indexs.css">
+    <link rel="stylesheet" href="CSS/tests.css">
+</head>
+<body>
+
+    <h1>🎬 Test Filme</h1>
+    <p>Răspunde la întrebări și vei vedea imediat dacă e corect!</p>
+
+    <nav>
+        <a href="index.html">🎬 Filmele mele</a>
+        <a href="add.html">➕ Adaugă</a>
+        <a href="to_watch.html">🎭 De Vizionat</a>
+        <a href="test.html">📝 Test</a>
+    </nav>
+
+    <div class="test-container">
+
+        <!-- Intrebarea 1 -->
+        <div class="question-block" id="q1">
+            <p class="question">1. Cine joacă rolul lui Jack în filmul Titanic (1997)?</p>
+            <input type="text" placeholder="Răspunsul tău..." id="ans1">
+            <button onclick="verifica(1)">Verifică</button>
+            <div class="feedback" id="feedback1"></div>
+        </div>
+
+        <!-- Intrebarea 2 -->
+        <div class="question-block" id="q2">
+            <p class="question">2. În ce oraș fictiv locuiește Batman?</p>
+            <input type="text" placeholder="Răspunsul tău..." id="ans2">
+            <button onclick="verifica(2)">Verifică</button>
+            <div class="feedback" id="feedback2"></div>
+        </div>
+
+        <!-- Intrebarea 3 -->
+        <div class="question-block" id="q3">
+            <p class="question">3. Cum se numește vrăjitorul principal din Harry Potter?</p>
+            <input type="text" placeholder="Răspunsul tău..." id="ans3">
+            <button onclick="verifica(3)">Verifică</button>
+            <div class="feedback" id="feedback3"></div>
+        </div>
+
+        <!-- Intrebarea 4 -->
+        <div class="question-block" id="q4">
+            <p class="question">4. Câți pitici are Albă ca Zăpada?</p>
+            <input type="text" placeholder="Răspunsul tău..." id="ans4">
+            <button onclick="verifica(4)">Verifică</button>
+            <div class="feedback" id="feedback4"></div>
+        </div>
+
+        <!-- Intrebarea 5 -->
+        <div class="question-block" id="q5">
+            <p class="question">5. Care este numele jucăriei de cowboy din Toy Story?</p>
+            <input type="text" placeholder="Răspunsul tău..." id="ans5">
+            <button onclick="verifica(5)">Verifică</button>
+            <div class="feedback" id="feedback5"></div>
+        </div>
+
+    </div>
+
+    <script src="JS/testjs.js"></script>
+</body>
+</html>
